@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/captions/view"
+  to = "/captions/view.html"
+  status = 200
